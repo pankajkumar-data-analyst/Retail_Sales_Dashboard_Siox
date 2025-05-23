@@ -1,2 +1,2 @@
 # Retail_Sales_Dashboard_Siox
-#Power BI Services Link: https://app.powerbi.com/links/NgqF5K-Eol?ctid=30a3b180-f69d-4dfe-bc15-de8636d0133c&pbi_source=linkShare
+#Power BI Services Link: https://app.powerbi.com/view?r=eyJrIjoiZDU4MzI2ZTYtNjIwOS00YzIxLWFiMTUtNTNkMGExNzczNDgwIiwidCI6ImEyNTcxNWI0LTU2MDMtNGVkYi1iMTFlLWRjYWZmYWM4ZTAyYSJ9
